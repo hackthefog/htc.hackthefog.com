@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   siteMetadata: {
-    title: 'Hack the Fog 2.0',
+    title: 'Hack the Cloud',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -10,8 +10,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Hack the Fog 2.0',
-        short_name: 'hackthefog',
+        name: 'Hack the Cloud',
+        short_name: 'hackthecloud',
         start_url: '/',
         background_color: '#fff',
         theme_color: '#207AEE',
