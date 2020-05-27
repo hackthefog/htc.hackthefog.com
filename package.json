@@ -1,10 +1,10 @@
 {
   "name": "hackthefog",
-  "description": "Website for Hack the Fog, San Francisco’s first high school hackathon.",
+  "description": "Website for Hack the Cloud, Hack the Fog's virtual hackathon.",
   "version": "1.0.0",
   "contributors": [
     "Zane Davis-Barrs <contact@zane.sh> (https://zane.sh)",
-    "Alex Ruiz <ruiz.alex0302@gmail.com> (https://www.ruizalex.com)"
+    "Alex Ruiz <ruiz.alex0302@gmail.com> (https://www.ruizalex.com)",
   ],
   "dependencies": {
     "@hackclub/icons": "^0.0.1",
