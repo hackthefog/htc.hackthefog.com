@@ -43,6 +43,7 @@ export default () => (
     <Logo size="6rem" linked />
     <Nav>
       <Item href="/faq">FAQ</Item>
+      <Item href="https://bank.hackclub.com/donations/start/hack-the-fog">Donate</Item>
     </Nav>
   </Wrapper>
 )
