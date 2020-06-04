@@ -29,11 +29,11 @@ I don’t know any other hackers/coders...
 Hack the Cloud is a great chance to meet people like you who want to get into tech! Other than our Slack (which is coming soon), where you can chat with people who will be attending the event, we’ll have a team-forming event after our opening ceremony where you can find a group.
  
 What are the rules if I want to submit a project?
-Hacks must be made by groups of up to four people, no more. Other than pre-made external libraries and tools, the code can only be made during the event. We will have a Devpost page up soon where teams must submit their hacks before the 24 hours are up.
+Hacks must be made by groups of up to four people, no more. Other than pre-made external libraries and tools, the code can only be made during the event. We will have a Devpost page up soon where teams must submit their hacks before the end of the second day of the hackathon.
 Other than the above rules, you’re free to do whatever you want as long as you use common sense - don’t make things that would potentially hurt people in any way. Hack for good!
  
-Is there wifi, laptops, chargers, etc?
-WiFi will be provided. We don’t know yet if we’ll be able to provide laptops/computers, but we’ll let you know if you sign up with your email!
+// Is there wifi, laptops, chargers, etc?
+// WiFi will be provided. We don’t know yet if we’ll be able to provide laptops/computers, but we’ll let you know if you sign up with your email!
 
 I have a different question!
 Don't be shy, shoot us an email at contact@hackthefog.com!
