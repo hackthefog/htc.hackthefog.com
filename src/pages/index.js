@@ -109,7 +109,7 @@ export default (props) => (
             In March 2018, we made history with Hack the Fog 1.0, San Francisco’s first high
             school hackathon — it was a massive success.
 
-            Hack the Cloud is happening on July 18th, 2020. Join us for our online hackathon!
+            Hack the Cloud is happening on July 11th, 2020! Join us for our online hackathon!
           </About>
           <StyledButton as={Link} to="register">
             REGISTER

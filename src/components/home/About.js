@@ -25,7 +25,7 @@ const About = (props) => {
   return (
     <Wrapper>
       <Heading>
-        San Francisco's first high school hackathon is back.
+        San Francisco's first high school hackathon is going online.
       </Heading>
       <FlexWrapper>
         <Article />
