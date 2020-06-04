@@ -6,7 +6,7 @@ import { Heading, Subheading } from 'components/Text'
 import { theme } from 'theme'
 import Button from 'components/Button'
 import Icon from '@hackclub/icons'
-// import { Link } from 'gatsby'
+import { Link } from 'gatsby'
 
 import { partners as data } from 'data'
 

@@ -43,10 +43,6 @@ export default () => (
     <Logo size="6rem" linked />
     <Nav>
       <Item href="/faq">FAQ</Item>
-      <Item href="/logistics">Logistics</Item>
-      <Item href="/about">About</Item>
-      <Item href="/sponsors">Sponsors</Item>
-      <Item href="/team">Team</Item>
     </Nav>
   </Wrapper>
 )
