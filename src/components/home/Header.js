@@ -32,11 +32,6 @@ const Presenters = styled.div`
   align-items: center;
   justify-content: center;
 
-  color: ${theme.colors.second[1]};
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(${theme.colors.second[0]}, ${theme.colors.second[1]});
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
 
   ${theme.mediaQueries.lg} {
     color: #000;
@@ -76,12 +71,12 @@ export default () => (
   <Wrapper>
     <Presenters>
       <img alt="Mission Bit" src={mblogo} />
-      <span> + </span>
+      <span style={{ color: theme.colors.second[1] }}> + </span>
       <img alt="Hack the Fog" src={logo} />
-      <span> present</span>
+      <span style={{ color: theme.colors.second[1] }}> present</span>
     </Presenters>
     <Big style={{color: theme.colors.first, width: "100%", textAlign: "center"}}>
-      Hack the Fog 2.0
+      Hack the Cloud
     </Big>
     <SVGWrap>
       <Link smooth={true} duration={1000} to="content">
