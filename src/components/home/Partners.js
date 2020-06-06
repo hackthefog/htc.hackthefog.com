@@ -26,13 +26,11 @@ class Partners extends React.Component {
             fontWeight: "bolder"}}>
             Interested?
           </Subheading>
-          <ContactWrapper>
             <ContactButton
               as="a"
               href={"mailto:contact@hackthefog.com"}>
               <Icon glyph="email-fill" /> Email
             </ContactButton>
-          </ContactWrapper>
         </div>
       </div>
     );

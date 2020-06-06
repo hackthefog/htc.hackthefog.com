@@ -22,6 +22,11 @@ export const partners = {
       name: "MissionBit",
       url: "https://www.missionbit.com",
       img: "missionbit.png"
+    },
+    {
+      name: "Hack Club",
+      url: "https://hackclub.com/",
+      img: "hackclub.jpeg"
     }
   ],
   gold: [

@@ -44,6 +44,7 @@ export default () => (
     <Nav>
       <Item href="/faq">FAQ</Item>
       <Item href="https://bank.hackclub.com/donations/start/hack-the-fog">Donate</Item>
+      <Item href="https://bank.hackclub.com/hack-the-fog">Transparent Finances</Item>
     </Nav>
   </Wrapper>
 )
