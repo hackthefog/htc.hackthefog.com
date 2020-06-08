@@ -4,6 +4,7 @@ import styled from 'styled-components'
 export default ({ size, color, linked, ...props }) => {
   const LogoImg = styled.img`
     width: ${size};
+    fill: #207aee;
   `
   return (
     <>

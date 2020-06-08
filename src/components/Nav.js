@@ -43,6 +43,9 @@ export default () => (
     <Logo size="6rem" linked />
     <Nav>
       <Item href="/faq">FAQ</Item>
+      <Item href="https://hack-the-cloud.devpost.com/">Register</Item>
+      <Item href="https://bank.hackclub.com/donations/start/hack-the-fog">Donate</Item>
+      <Item href="https://bank.hackclub.com/hack-the-fog">Transparent Finances</Item>
     </Nav>
   </Wrapper>
 )
