@@ -18,6 +18,7 @@ import Footer from 'components/Footer'
 import { theme } from 'theme'
 import { Slide } from 'react-slideshow-image'
 
+
 const BG = styled.div`
   position: relative;
   min-height: 100vh;
@@ -74,6 +75,17 @@ const HeaderWrapper = styled.div`
   }
 `
 
+const StyledButton = styled(Button)`
+  ${theme.mediaQueries.sm} {
+    font-size: 2.5rem;
+    padding: 1rem 2rem;
+  }
+  font-size: 12vw;
+  margin: 2rem auto 0;
+  padding: 6vw 10vw;
+  font-weight: bold;
+`;
+
 const Item = styled(Link)`
   margin: 1rem 1.5rem;
   text-transform: uppercase;
@@ -110,7 +122,7 @@ export default (props) => (
 
             Hack the Cloud is happening for 48 hours on July 11th - 12th, 2020! Join us for our online hackathon!
           </About>
-          <StyledButton as={Link} to="https://hack-the-cloud.devpost.com/">
+          <StyledButton as={Link} target="_blank" to="https://hack-the-cloud.devpost.com/">
             REGISTER
           </StyledButton>
         </Container>
