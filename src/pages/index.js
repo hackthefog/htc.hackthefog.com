@@ -111,7 +111,7 @@ export default (props) => (
 
             Hack the Cloud is happening on July 11th, 2020! Join us for our online hackathon!
           </About>
-          <StyledButton as={Link} to="register">
+          <StyledButton as={Link} to="https://hack-the-cloud.devpost.com/">
             REGISTER
           </StyledButton>
         </Container>

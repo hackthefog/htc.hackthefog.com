@@ -20,7 +20,7 @@ export default (props) => {
   return (
     <Div>
       <GlobalStyle/>
-      <iframe title="typeform" id="typeform-full" width="100%" height="100%" frameborder="0" src="https://hackthefog.typeform.com/to/gY0Nro"></iframe>
+      <iframe width="100%" height="100%" frameborder="0" src="https://hack-the-cloud.devpost.com/"></iframe>
     </Div>
   )
 };
