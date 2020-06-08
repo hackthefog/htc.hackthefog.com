@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{aSaP:function(t,e,o){"use strict";o.r(e);var i=o("q1tI"),n=o.n(i),a=o("vOnD");o("zDcZ"),a.b.div.withConfig({displayName:"register__Div",componentId:"gyxo91-0"})(["margin:0;height:100vh;overflow:hidden;iframe{position:absolute;left:0;right:0;bottom:0;top:0;border:0;}"]);e.default=function(t){return n.a.createElement("script",{type:"text/javascript"},'window.location.replace("https://hack-the-cloud.devpost.com/");')}}}]);
+//# sourceMappingURL=component---src-pages-register-js-f2f2f2b249b4e11fc0cb.js.map
