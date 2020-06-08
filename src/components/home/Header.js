@@ -22,6 +22,7 @@ const Wrapper = styled.div`
 const Presenters = styled.div`
   img {
     height: 3rem;
+    fill: #207aee;
   }
   span {
     white-space: pre;
