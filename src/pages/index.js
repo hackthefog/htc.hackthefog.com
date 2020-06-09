@@ -122,7 +122,7 @@ export default (props) => (
 
             Hack the Cloud is happening for 48 hours on July 11th - 12th, 2020! Join us for our online hackathon!
           </About>
-          <StyledButton as={Link} target="_blank" to="https://hack-the-cloud.devpost.com/">
+          <StyledButton as={Link} target="_blank" href="https://hack-the-cloud.devpost.com">
             REGISTER
           </StyledButton>
         </Container>
