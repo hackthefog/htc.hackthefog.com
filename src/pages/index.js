@@ -75,7 +75,7 @@ const HeaderWrapper = styled.div`
   }
 `
 
-const StyledButton = styled(Button)`
+const StyledButton = styled.a`
   ${theme.mediaQueries.sm} {
     font-size: 2.5rem;
     padding: 1rem 2rem;
@@ -84,6 +84,9 @@ const StyledButton = styled(Button)`
   margin: 2rem auto 0;
   padding: 6vw 10vw;
   font-weight: bold;
+  background-color: #207aee;
+  color: #fff;
+  text-decoration: none;
 `;
 
 export default (props) => (
@@ -112,7 +115,7 @@ export default (props) => (
 
             Hack the Cloud is happening for 48 hours on July 11th - 12th, 2020! Join us for our online hackathon!
           </About>
-          <StyledButton as={Link} to="register">
+          <StyledButton target="_blank" href="https://hack-the-cloud.devpost.com/">
             REGISTER
           </StyledButton>
         </Container>
