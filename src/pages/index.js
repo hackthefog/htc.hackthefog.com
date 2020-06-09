@@ -86,16 +86,6 @@ const StyledButton = styled(Button)`
   font-weight: bold;
 `;
 
-const Item = styled(Link)`
-  margin: 1rem 1.5rem;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: ${theme.colors.gray[8]};
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-`
-
 export default (props) => (
   <Layout>
     <BG>
@@ -122,7 +112,7 @@ export default (props) => (
 
             Hack the Cloud is happening for 48 hours on July 11th - 12th, 2020! Join us for our online hackathon!
           </About>
-          <StyledButton as={Link} target="_blank" to="https://hack-the-cloud.devpost.com/">
+          <StyledButton as={Link} to="register">
             REGISTER
           </StyledButton>
         </Container>
