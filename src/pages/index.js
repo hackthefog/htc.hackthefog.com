@@ -86,16 +86,6 @@ const StyledButton = styled(Button)`
   font-weight: bold;
 `;
 
-const Item = styled(Link)`
-  margin: 1rem 1.5rem;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: ${theme.colors.gray[8]};
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-`
-
 export default (props) => (
   <Layout>
     <BG>
