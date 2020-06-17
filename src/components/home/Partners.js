@@ -19,6 +19,11 @@ class Partners extends React.Component {
           logoSize={"20rem"}
           mLogoSize={"15rem"}
           data={data.platinum} />
+        <Heading>Sponsored by:</Heading>
+        <SponsorGroup
+          logoSize={"17rem"}
+          mLogoSize={"12rem"}
+          data={data.gold} />
         <div>
           <Subheading style={{
             textAlign: "center",
@@ -82,6 +87,11 @@ const PartnerWrapper = styled.div`
   justify-content: space-evenly;
   padding: 1rem 2rem 0;
 `
+const SponsorWrapper = styled.div`
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1rem 2rem 0;
+`
 const StyledAnchor = styled.a`
   display: block;
   padding: 1rem;
@@ -131,6 +141,40 @@ class PartnerGroup extends React.Component {
             mSize={this.props.mLogoSize} />
         )}
       </PartnerWrapper>
+    );
+  }
+}
+
+class SponsorGroup extends React.Component {
+  constructor () {
+    super();
+    this.state = {
+      partners: []
+    };
+  }
+  componentDidMount () {
+    for (let i in this.props.data) {
+      import (`images/partners/${this.props.data[i].img}`)
+        .then(img => {
+          let partners = this.props.data;
+          partners[i].imgURL = img.default;
+          this.setState({partners});
+        });
+    }
+  }
+  render () {
+    return (
+      <SponsorWrapper>
+        {this.state.partners.map(p =>
+          <PartnerLink
+            key={p.name}
+            href={p.url}
+            src={p.imgURL}
+            alt={p.name}
+            size={this.props.logoSize}
+            mSize={this.props.mLogoSize} />
+        )}
+      </SponsorWrapper>
     );
   }
 }
