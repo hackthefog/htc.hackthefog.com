@@ -30,6 +30,11 @@ export const partners = {
     }
   ],
   gold: [
+    {
+      name: "EchoAR",
+      url: "https://www.echoar.xyz/",
+      img: "echoAR.png"
+    }
   ],
   bronze: [
   ]
