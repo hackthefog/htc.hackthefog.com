@@ -34,6 +34,11 @@ export const partners = {
       name: "EchoAR",
       url: "https://www.echoar.xyz/",
       img: "echoAR.png"
+    },
+    {
+      name: "Bugsee",
+      url: "https://www.bugsee.com/",
+      img: "bugsee.jpg"
     }
   ],
   bronze: [
