@@ -38,7 +38,7 @@ export const partners = {
     {
       name: "Bugsee",
       url: "https://www.bugsee.com/",
-      img: "bugsee.jpg"
+      img: "bugsee.png"
     }
   ],
   bronze: [
