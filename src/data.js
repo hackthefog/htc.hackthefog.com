@@ -39,6 +39,11 @@ export const partners = {
       name: "Bugsee",
       url: "https://www.bugsee.com/",
       img: "bugsee.png"
+    },
+    {
+      name: "SashiDo",
+      url: "https://www.sashido.io/en/",
+      img: "sashido.png"
     }
   ],
   bronze: [
