@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{p4oI:function(p,o,a){p.exports=a.p+"static/sashido-4571cbf26941cb3aa8c88e18119abb66.png"}}]);
+//# sourceMappingURL=15-128069b4d033b9085185.js.map
