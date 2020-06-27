@@ -44,6 +44,11 @@ export const partners = {
       name: "SashiDo",
       url: "https://www.sashido.io/en/",
       img: "sashido.png"
+    },
+    {
+      name: "Balsamiq",
+      url: "https://balsamiq.cloud/",
+      img: "balsamiq.png"
     }
   ],
   bronze: [
