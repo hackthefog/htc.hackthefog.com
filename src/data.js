@@ -52,7 +52,7 @@ export const partners = {
     },
     {
       name: "CloudSploit",
-      url; "https://cloudsploit.com/",
+      url: "https://cloudsploit.com/",
       img: "cloudsploit.jpg"
     }
   ],
