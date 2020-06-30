@@ -49,6 +49,11 @@ export const partners = {
       name: "Balsamiq",
       url: "https://balsamiq.cloud/",
       img: "balsamiq.png"
+    },
+    {
+      name: "CloudSploit",
+      url; "https://cloudsploit.com/",
+      img: "cloudsploit.jpg"
     }
   ],
   bronze: [
