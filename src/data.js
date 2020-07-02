@@ -53,7 +53,7 @@ export const partners = {
     {
       name: "CloudSploit",
       url: "https://cloudsploit.com/",
-      img: "cloudsploit.jpg"
+      img: "cloudsploit.jpeg"
     }
   ],
   bronze: [
