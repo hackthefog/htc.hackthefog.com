@@ -27,6 +27,11 @@ export const partners = {
       name: "Hack Club",
       url: "https://hackclub.com/",
       img: "hackclub.jpeg"
+    },
+    {
+      name: "Mind Spark",
+      url: "https://mindsparkintl.co",
+      img: "Logo_high_resolution.png",
     }
   ],
   gold: [
