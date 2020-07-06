@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{aSaP:function(e,t,n){"use strict";n.r(t);var r=n("q1tI"),a=n.n(r);t.default=function(e){return a.a.createElement("div",null,a.a.createElement("a",{href:"https://hack-the-cloud.devpost.com",target:"_blank",rel:"noopener noreferrer"},"Our Registration has moved to devpost!"))}}}]);
+//# sourceMappingURL=component---src-pages-register-js-633b510957f8f0c41d2d.js.map
