@@ -34,7 +34,7 @@ export const partners = {
       img: "Logo_high_resolution.png",
     }
   ],
-  gold: [
+  gold1: [
     {
       name: "EchoAR",
       url: "https://www.echoar.xyz/",
@@ -49,7 +49,9 @@ export const partners = {
       name: "SashiDo",
       url: "https://www.sashido.io/en/",
       img: "sashido.png"
-    },
+    }
+  ],
+  gold2: [
     {
       name: "Balsamiq",
       url: "https://balsamiq.cloud/",
@@ -59,9 +61,12 @@ export const partners = {
       name: "CloudSploit",
       url: "https://cloudsploit.com/",
       img: "cloudsploit.jpeg"
+    },
+    {
+      name: "Magoosh",
+      url: "https://magoosh.com",
+      img: "magoosh.png"
     }
-  ],
-  bronze: [
   ]
 };
 
