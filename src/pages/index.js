@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import { Element } from 'react-scroll'
 
@@ -7,7 +7,6 @@ import styled from 'styled-components'
 import Layout from 'components/Layout'
 import Container from 'components/Container'
 import Nav from 'components/Nav'
-import Button from 'components/Button'
 
 import Header from 'home/Header'
 import About from 'home/About'
