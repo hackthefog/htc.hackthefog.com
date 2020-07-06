@@ -6,7 +6,6 @@ import { Heading, Subheading } from 'components/Text'
 import { theme } from 'theme'
 import Button from 'components/Button'
 import Icon from '@hackclub/icons'
-import { Link } from 'gatsby'
 
 import { partners as data } from 'data'
 
@@ -23,7 +22,11 @@ class Partners extends React.Component {
         <SponsorGroup
           logoSize={"17rem"}
           mLogoSize={"12rem"}
-          data={data.gold} />
+          data={data.gold1} />
+        <SponsorGroup
+          logoSize={"17rem"}
+          mLogoSize={"12rem"}
+          data={data.gold2} />
         <div>
           <Subheading style={{
             textAlign: "center",
@@ -45,18 +48,6 @@ class Partners extends React.Component {
 /**********************/
 /***extra components***/
 /**********************/
-const ContactWrapper = styled.div`
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  justify-content: space-between;
-  max-width: 30rem;
-  margin: 2rem auto 0;
-
-  ${theme.mediaQueries.lg} {
-    flex-direction: row;
-  }
-`
 const ContactButton = styled(Button)`
   display: flex;
   align-items: center;
