@@ -10,12 +10,6 @@ export const socials = [
   { "service": "facebook", "url": "https://www.facebook.com/hackthefog" },
   { "service": "email-fill", "url": "mailto:contact@hackthefog.com" }
 ];
-export const team = [
-  { "name": "Rafael Cenzano", "pronouns": "he/him" },
-  { "name": "Cappillen Lee", "pronouns": "he/him" },
-  { "name": "Luna, Isabel", "pronouns": "she/her" },
-  { "name": "Marvin Lee", "pronouns": "he/him" }
-];
 export const partners = {
   platinum: [
     {
