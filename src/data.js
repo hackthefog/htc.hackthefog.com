@@ -69,7 +69,6 @@ export default {
   description,
   url,
   socials,
-  team,
   partners
 };
 // export { socials as socials };
