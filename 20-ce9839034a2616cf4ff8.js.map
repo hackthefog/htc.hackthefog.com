@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/img/partners/sashido.png"],"names":["module","exports"],"mappings":"+EAAAA,EAAOC,QAAU,IAA0B","file":"20-ce9839034a2616cf4ff8.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/sashido-4571cbf26941cb3aa8c88e18119abb66.png\";"],"sourceRoot":""}
