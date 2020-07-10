@@ -18,6 +18,10 @@ class Partners extends React.Component {
           logoSize={"20rem"}
           mLogoSize={"15rem"}
           data={data.platinum} />
+        <PartnerGroup
+          logoSize={"20rem"}
+          mLogoSize={"15rem"}
+          data={data.platinum1} />
         <Heading>Sponsored by:</Heading>
         <SponsorGroup
           logoSize={"17rem"}
