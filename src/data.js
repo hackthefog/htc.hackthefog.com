@@ -21,6 +21,13 @@ export const partners = {
       name: "Hack Club",
       url: "https://hackclub.com/",
       img: "hackclub.jpeg"
+    }
+  ],
+  platinum1: [
+    {
+      name: "Github",
+      url: "https://github.com/",
+      img: "github.png"
     },
     {
       name: "Mind Spark",
@@ -54,7 +61,7 @@ export const partners = {
     {
       name: "CloudSploit",
       url: "https://cloudsploit.com/",
-      img: "cloudsploit.jpeg"
+      img: "cloudsploit.png"
     },
     {
       name: "Magoosh",
