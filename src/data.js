@@ -29,7 +29,7 @@ export const team = {
     },
     {
       name: "Marvin Lee",
-      img: "default.jpeg",
+      img: "marvin.jpg",
       description: "Organizer at Hack the Cloud"
     },
     {
