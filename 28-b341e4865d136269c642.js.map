@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/img/team/waikirn.jpeg"],"names":["module","exports"],"mappings":"+EAAAA,EAAOC,QAAU,IAA0B","file":"28-b341e4865d136269c642.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/waikirn-9d94f2eeefae097267c805a2c01cb63c.jpeg\";"],"sourceRoot":""}

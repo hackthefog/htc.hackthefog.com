@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/img/team/josh.jpeg"],"names":["module","exports"],"mappings":"+EAAAA,EAAOC,QAAU,IAA0B","file":"24-37d5314cf1dcc0b1c0f8.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/josh-51003b29a85d818e4df72a67ed4529e5.jpeg\";"],"sourceRoot":""}

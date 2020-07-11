@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{a2sg:function(p,c,a){p.exports=a.p+"static/default-35f52169a088b38f8802f6dc9074c06c.jpeg"}}]);
+//# sourceMappingURL=22-d851ec97aba1f72a3850.js.map

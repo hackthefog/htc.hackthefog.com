@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{"6BPT":function(c,p,d){c.exports=d.p+"static/derick-9cef77e8f700ad093cdc0d7d4e56153b.png"}}]);
+//# sourceMappingURL=23-f4e31f9e99d586f01145.js.map

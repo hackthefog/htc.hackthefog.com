@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/img/team/marvin.jpg"],"names":["module","exports"],"mappings":"+EAAAA,EAAOC,QAAU,IAA0B","file":"26-b6936578eca134d84264.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/marvin-bbd0f9aa5a04425ab0c317c21bd6188e.jpg\";"],"sourceRoot":""}

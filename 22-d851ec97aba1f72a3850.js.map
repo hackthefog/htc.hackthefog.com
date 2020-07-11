@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/img/team/default.jpeg"],"names":["module","exports"],"mappings":"+EAAAA,EAAOC,QAAU,IAA0B","file":"22-d851ec97aba1f72a3850.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/default-35f52169a088b38f8802f6dc9074c06c.jpeg\";"],"sourceRoot":""}

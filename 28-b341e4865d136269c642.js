@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{os81:function(c,e,p){c.exports=p.p+"static/waikirn-9d94f2eeefae097267c805a2c01cb63c.jpeg"}}]);
+//# sourceMappingURL=28-b341e4865d136269c642.js.map
