@@ -10,6 +10,50 @@ export const socials = [
   { "service": "facebook", "url": "https://www.facebook.com/hackthefog" },
   { "service": "email-fill", "url": "mailto:contact@hackthefog.com" }
 ];
+export const team = {
+  members: [
+    {
+      name: "Rafael Cenzano",
+      img: "rafael.jpeg",
+      description: "Director of Hack the Fog and Co-Director of Hack the Cloud"
+    },
+    {
+      name: "Cappillen Lee",
+      img: "cap.jpeg",
+      description: "Co-Director of Hack the Cloud"
+    },
+    {
+      name: "Luna",
+      img: "luna.jpeg",
+      description: "Director of Social Media at Hack the Cloud"
+    },
+    {
+      name: "Marvin Lee",
+      img: "default.jpeg",
+      description: "Organizer at Hack the Cloud"
+    },
+    {
+      name: "Caye Lee",
+      img: "default.jpeg",
+      description: "Organizer at Hack the Cloud"
+    },
+    {
+      name: "Joshua Pan",
+      img: "josh.jpeg",
+      description: "Missionbit Student Advisor and Organizer at Hack the Cloud"
+    },
+    {
+      name: "Derick Du",
+      img: "derick.png",
+      description: "Missionbit Student Advisor and Organizer at Hack the Cloud"
+    },
+    {
+      name: "Normando Wai-Kirn Macaraeg",
+      img: "waikirn.jpeg",
+      description: "Graphical Designer at Hack the Cloud"
+    }
+  ]
+}
 export const partners = {
   platinum: [
     {
@@ -76,6 +120,7 @@ export default {
   description,
   url,
   socials,
-  partners
+  partners,
+  team
 };
 // export { socials as socials };

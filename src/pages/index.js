@@ -12,6 +12,7 @@ import Header from 'home/Header'
 import About from 'home/About'
 import FAQ from 'home/FAQ'
 import Partners from 'home/Partners'
+import Team from 'home/Team'
 
 import Footer from 'components/Footer'
 import { theme } from 'theme'
@@ -125,6 +126,10 @@ export default (props) => (
       <Container
         style={{paddingBottom: "4em"}}>
         <Partners />
+      </Container>
+      <Container
+        style={{paddingBottom: "4em"}}>
+        <Team />
       </Container>
     </BG>
     <Footer />
